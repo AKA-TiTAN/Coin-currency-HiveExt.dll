@@ -79,9 +79,9 @@ publicVariableServer "PVDZE_plr_Save";
 
 
 
-"wealth" and "bank" variables will need to be used, (unless you change there decleration in the server_playerSetup.sqf and server_playerSync.sqf  to what ever variables you use to store your player money and bank declerations in your scripts).
+"wealth" and "bank" variables will need to be used, (unless you change them to you own in the server_playerSetup.sqf and server_playerSync.sqf  to what ever variables you use to store your player money and bank declerations in your scripts).
 =======
-i have added a gold folder in my github file, it is quick and dirty edit of Zupa's V1.0 from his github. i am sure he will clean it up if he wishes to use the .dlls
+i have added a gold folder in my github file, it is quick and dirty edit of Zupa's  from his github. 
 
 loads of Credit goes to him for those.
 
@@ -91,9 +91,3 @@ if you use this file and find it useful, please consider a donation to fund my f
 
 https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=akatitan%40sky%2ecom&lc=GB&item_name=TiTAN&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 
-the files in the gold folder are a quick and dirty code replacement for Zupa's gold scripts v1.0 Credit goes to him for them.
-
-
-the files in the gold folder are a replacement for Zupa's gold scripts Credit goes to him (and i believe Maca for them).
-
-=======
