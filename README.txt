@@ -69,9 +69,6 @@ ALTER TABLE `Character_DATA` ADD COLUMN `Bank` INT UNSIGNED NOT NULL DEFAULT 100
 
 
 you will need to edit your scripts for use.
->>>>>>> origin/master
-
-
 
 If you are using your own scripts, you will need to edit your scripts!!!! 
 
@@ -80,14 +77,14 @@ to call eg:-
 PVDZE_plr_Save = [_activatingPlayer,(magazines _activatingPlayer),true,true] ;
 publicVariableServer "PVDZE_plr_Save";
 
-<<<<<<< HEAD
+
 
 "wealth" and "bank" variables will need to be used, (unless you change there decleration in the server_playerSetup.sqf and server_playerSync.sqf  to what ever variables you use to store your player money and bank declerations in your scripts).
 =======
 i have added a gold folder in my github file, it is quick and dirty edit of Zupa's V1.0 from his github. i am sure he will clean it up if he wishes to use the .dlls
 
 loads of Credit goes to him for those.
->>>>>>> origin/master
+
 
 
 if you use this file and find it useful, please consider a donation to fund my future works..
@@ -96,11 +93,7 @@ https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=akatitan%40sky%2ec
 
 the files in the gold folder are a quick and dirty code replacement for Zupa's gold scripts v1.0 Credit goes to him for them.
 
-<<<<<<< HEAD
+
 the files in the gold folder are a replacement for Zupa's gold scripts Credit goes to him (and i believe Maca for them).
 
 =======
->>>>>>> origin/master
-
-
-
